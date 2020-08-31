@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Aug 28 15:53:48 2020
-
-@author: suoy18
-"""
-
 import pandas as pd
 pd.set_option('display.max_columns', 20)
 pd.set_option('display.width', 350)
